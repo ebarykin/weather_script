@@ -31,4 +31,4 @@ Copy code
 - Библиотеки: `openmeteo_requests`, `pandas`, `sqlalchemy`, `aioconsole`
 
 ## Пример экспортируемых данных
-- **Пример файла**: [weather_data_example.xlsx](path/to/weather_data_example.xlsx)
+- **Пример файла**: [weather_2024-10-11_11-09-35.xlsx](weather_2024-10-11_11-09-35.xlsx)
